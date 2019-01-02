@@ -1,0 +1,7 @@
+[user]
+	email = bjorn.lidell@some-email.some-domain
+	name = Björn Lidell
+[alias]
+	co = checkout
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+	hash = rev-parse HEAD
