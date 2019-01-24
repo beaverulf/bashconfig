@@ -13,3 +13,4 @@ export CLICOLOR=1
 export LSCOLORS=Exfxcxdxbxegedabagacad
 
 export GOPATH=$HOME/go
+export PATH=$PATH:$(go env GOPATH)/bin
